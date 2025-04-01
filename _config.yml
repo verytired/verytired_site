@@ -104,3 +104,5 @@ deploy:
   type: git
   repo: git@github.com:verytired/verytired_site.git
   branch: gh-pages
+
+root: /
